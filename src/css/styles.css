@@ -1,0 +1,11 @@
+.menu-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 0;
+    background-color: #eee;
+}
+.menu-wrapper li {
+    padding: 10px 0;
+    color: #61dafb;
+}
